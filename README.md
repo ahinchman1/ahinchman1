@@ -21,6 +21,7 @@ Hoping to write more one day. But hey! It's a start.
 
 ### Conference talks
 
+- Droidcon NYC 2024: [Kotlin Coroutine Mechanisms: Introduction to Coroutine Behavior using playful examples](https://www.droidcon.com/2024/10/17/kotlin-coroutine-mechanisms-introduction-to-coroutine-behavior-through-playful-examples/)
 - KotlinConf 2023: [Crash Course on the Kotlin Compiler](https://www.youtube.com/watch?v=wUGfuWHCqrc&t=1s&pp=ygUZYW1hbmRhIGhpbmNobWFuIGludGVydmlldw%3D%3D)
 - Droidcon Berlin/London/NYC/SF 2021-2022: [A Hitchhiker's Guide to Jetpack Compose: Composers, Compiler Plugins, and Snapshots](https://www.droidcon.com/2022/06/28/ha-hitchhikers-guide-to-compose-compiler-composers-compiler-plugins-and-snapshots/)
 - Droidcon NYC/SF 2022: [Memory Leaks & Performance Considerations: A Cookbook](https://www.droidcon.com/2022/08/01/memory-leaks-performance-considerations-a-cookbook-2/)
