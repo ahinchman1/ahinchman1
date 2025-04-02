@@ -31,10 +31,11 @@ Hoping to write more one day. But hey! It's a start.
 - KotlinConf 2019: [A Brief History of Memory Leaks](https://www.droidcon.com/2022/08/01/memory-leaks-performance-considerations-a-cookbook-2/)
 - JFuture 2019: [The Shape of Kotlin](https://www.youtube.com/watch?v=qRp2wdeBFYw&ab_channel=SPACE)
 - Kotlin Budapest: [Kotlin: The Next Frontier for Modern (Meta)programming](https://www.youtube.com/watch?v=NxSHkgFRTI0&pp=ygUYYW1hbmRhIGhpbmNobWFuIGJ1ZGFwZXN0)
-- KotlinConf 2018: [Kotlin and TornadoFX: The Next Frontier in Modern (Meta)Programming](https://www.youtube.com/watch?v=XyGvwsQ5W5A&ab_channel=JetBrainsTV) 
+- KotlinConf 2018: [Kotlin and TornadoFX: The Next Frontier in Modern (Meta)Programming](https://www.youtube.com/watch?v=XyGvwsQ5W5A&ab_channel=JetBrainsTV)
 
 ### Recent podcasts, interviews
 
+- - Kotlin Khronicles ep 2: [https://open.spotify.com/episode/4e9bWCSBScW2m7SrJJiZrw?si=7aceb3272b5f4ca1] 
 - Kotlin by JetBrains: [Demystifying the Kotlin Compiler](https://www.youtube.com/watch?v=iP8SBM7fkew&ab_channel=KotlinbyJetBrains) 
 - Code with the Italians: [Delving deep into the Kotlin Compiler with Amanda Hinchman 💪💖]()
 - The Remote Dev: [S0203 Amanda Hinchman-Dominguez](https://open.spotify.com/episode/5aooSr5F4dwYO3BnV56tZU) 
